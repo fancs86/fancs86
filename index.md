@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 早上好！
 
 You can use the [editor on GitHub](https://github.com/fancs86/fancs86/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
